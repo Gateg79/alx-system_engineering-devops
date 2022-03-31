@@ -1,1 +1,2 @@
-shell basic commands for listing files
+Shell basic commands
+List of all Shell commands
