@@ -1,2 +1,2 @@
 #!/bin/bash
-print '%x\n' 85
+print '%x\n' DECIMAL
